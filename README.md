@@ -36,8 +36,6 @@ This is an example of how to list things you need to use the software and how to
 
 Chang-Suk Jeon
 
-[@Linkedin](https://www.linkedin.com/in/%EC%B0%BD%EC%84%9D-%EC%A0%84-0442ba162/)
-
-[Email Address](jcs191072@gmail.com)
+[@Linkedin](https://www.linkedin.com/in/%EC%B0%BD%EC%84%9D-%EC%A0%84-0442ba162/) - jcs191072@gmail.com
 
 [React-Advanced-2021](https://github.com/jcs1910/react-advanced-2021)
