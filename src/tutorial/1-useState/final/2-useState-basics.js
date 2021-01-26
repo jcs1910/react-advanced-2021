@@ -6,7 +6,7 @@ const UseStateBasics = () => {
 
   const handleClick = () => {
     if (text === 'welcome the space') {
-      setText('welcome Korea');
+      setText('welcome korea');
     } else {
       setText('welcome the space');
     }
