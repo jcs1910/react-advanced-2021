@@ -1,11 +1,10 @@
 import React from 'react';
-
-import UseStateCounter from './tutorial/1-useState/final/5-useState-counter';
+import UseEffectCleanup from './tutorial/2-useEffect/final/2-useEffect-cleanup';
 
 function App() {
   return (
-    <div className='container'>
-      <UseStateCounter />
+    <div className="container">
+      <UseEffectCleanup />
     </div>
   );
 }
