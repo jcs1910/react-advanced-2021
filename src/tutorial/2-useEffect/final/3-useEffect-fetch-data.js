@@ -19,6 +19,7 @@ const UseEffectFetchData = () => {
     };
   }, []);
 
+  console.log('users =>', users);
   return (
     <>
       <h3>Github Users</h3>
